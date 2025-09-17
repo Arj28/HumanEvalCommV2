@@ -1,0 +1,7 @@
+streamlit
+pytest
+flake8
+bandit
+memory-profiler
+pandas
+plotly
