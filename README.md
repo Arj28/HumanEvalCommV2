@@ -1,4 +1,5 @@
-humanevalcomm-v2-demo
+Humanevalcomm-v2-demo
+
 A demo application that showcases the HumanevalComm V2 model for evaluating and analyzing code–comment alignment.
 
 📋 Table of Contents
